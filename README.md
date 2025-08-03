@@ -42,7 +42,7 @@ Press `ALT` + `M` key to view/hide AI settings
 
    - ![GitHub](https://www.google.com/s2/favicons?sz=8&domain=github.com) [Github](https://github.com/dpesh02/Formify/raw/refs/heads/main/dist/formify.user.js)
 
-3. **(Optional)** You can check the script by filling up [THIS GOOGLE FORM](https://docs.google.com/forms/d/e/1FAIpQLSd5A4xLjNMmo9MxlMRSXYBiAd66eIHkrCInFNZ9aCs4HLIiyw/viewform)
+3. **(Optional)** You can check the script by filling up [THIS GOOGLE FORM](https://docs.google.com/forms/d/e/1FAIpQLScTDScpJ6taNHHEoXYjcFVm7YxS60BbYyqwHh26TgJRdVcM0Q/viewform?embedded=true)
 
 ## Changelogs 🤓
 
